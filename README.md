@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GeekyNaren
+- 👋 Hi, I’m @GeekyNaren a Full Stack Software Developer
 - 👀 I’m interested in Full Stack Software Development
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @narendra__bhosale on Instagram
 
