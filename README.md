@@ -1,5 +1,5 @@
 - Hi, I’m Narendra Bhosale a Full Stack Software Developer
-- Expertise In : Angular, React JS, Node JS, Express JS, MongoDB, Dotnet Core, SQL
+- Expertise In : Angular, Node JS, Express JS, MongoDB, Dotnet Core, SQL, Web API
 - I’m looking to collaborate on ...
 <!--- I’m currently learning MERN Stack --->
 <!--- 📫 How to reach me @narendra__bhosale on Instagram--->
