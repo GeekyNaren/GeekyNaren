@@ -1,6 +1,6 @@
 # Hi there, I'm Narendra Bhosale 👋
 
-Software Engineer with 4 years of experience building microservices and full-stack solutions for enterprise-scale platforms. Currently at **SLB (formerly Schlumberger)**, shipping APIs used by 10,000+ customers in the oil & gas domain.
+Software Engineer with 4 years of experience building microservices and full-stack solutions for enterprise-scale platforms. Currently working in the oil & gas domain.
 
 ---
 
