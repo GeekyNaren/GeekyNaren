@@ -67,9 +67,6 @@ Software Engineer with 4 years of experience building microservices and full-sta
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhosalenarendra-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bhosalenarendra)
-[![Email](https://img.shields.io/badge/Email-bhosalenarendra%40yahoo.com-red?style=flat&logo=yahoo)](mailto:bhosalenarendra@yahoo.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209011970463-green?style=flat&logo=whatsapp)](tel:+919011970463)
-
 ---
 
 > *"Ship fast, measure everything, improve relentlessly."*
