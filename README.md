@@ -1,6 +1,6 @@
 # Hi there, I'm Narendra Bhosale 👋
 
-Software Engineer with 4 years of experience building microservices and full-stack solutions for enterprise-scale platforms. Currently working in the oil & gas domain.
+Software Engineer with 4+ years of experience building microservices and full-stack solutions for enterprise-scale platforms. Currently working in the oil & gas domain.
 
 ---
 
@@ -42,26 +42,10 @@ Software Engineer with 4 years of experience building microservices and full-sta
 
 ---
 
-## 💼 Experience
-
-**Software Engineer — SLB (formerly Schlumberger)** *(Feb 2023 – Present)*
-- Built microservices-based Web APIs in .NET Core serving 10,000+ customers
-- Designed and shipped an automated video-to-PDF pipeline using Azure Cloud Storage, FFmpeg, and iText7 — reducing turnaround time by 40%
-- Diagnosed and resolved high-impact production issues across customer-facing microservices
-
-**Junior Software Engineer — Ecotech IT Solutions Pvt Ltd** *(Sep 2021 – Apr 2022)*
-- Built full-stack modules with Angular 13, .NET Core Web API, and SQL Server
-- Developed a real-time part-tracking component with In-Progress / Completed / Not Started statuses
-
----
 
 ## 🎓 Education
 
 **MCA** — Savitribai Phule Pune University *(2022)*
-
-**BCA** — Shivaji University, Satara *(2018)*
-*Student of the Year 2018 · Presented at Avishkar 2017 (700+ participants)*
-
 ---
 
 ## 📬 Let's Connect
