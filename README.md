@@ -45,7 +45,7 @@ Software Engineer with 4+ years of experience building microservices and full-st
 
 ## 🎓 Education
 
-**MCA** — Savitribai Phule Pune University *(2022)*
+**Master Of Computer Applications** — Savitribai Phule Pune University *(2022)*
 ---
 
 ## 📬 Let's Connect
