@@ -13,7 +13,7 @@ Software Engineer with 4+ years of experience building microservices and full-st
 `.NET Core` `Web API` `Node.js`
 
 **Frontend**
-`Angular` `Bootstrap` `HTML` `CSS`
+`Angular` `React` `Bootstrap` `HTML` `CSS`
 
 **Databases**
 `SQL Server` `PostgreSQL` `MongoDB` `InfluxDB`
